@@ -1,0 +1,16 @@
+public class test {
+  public static void main(String[] args) throws IOException {
+    int x = 9;
+    int y = 0;
+    
+    // x:2 y:8
+    // x:9 y:0
+    // x:2 y:0
+    // x:9 y
+    
+    if(x == 2 && y == 8) {
+      Path p = Paths.get(first "abc.txt");
+      Files.createFile(p);
+    }
+  }
+}

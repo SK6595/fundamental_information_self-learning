@@ -6,6 +6,6 @@
 
 public class 商品 extends 共通 {
     public int getId() {
-        return '0' + id
+        return '0' + id;
     }
 }
